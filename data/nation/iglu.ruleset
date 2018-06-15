@@ -1,0 +1,20 @@
+[nation_iglu]
+
+name=_("Iglu")
+plural=_("?plural:Iglu users") 
+class=_("Fictional")
+
+leader= "A Cold Grumpy Man"
+leader_sex= "Male"
+	    
+flag="f.iglu"
+flag_alt = "-"
+city_style = "European"
+
+init_techs=""
+init_buildings=""
+init_government="Despotism"
+tech_goals = "The Republic", "Trade", "Engineering", "Gunpowder",
+	     "Railroad", "Explosives"
+
+civilwar_nations = "barbarian","eskimo"

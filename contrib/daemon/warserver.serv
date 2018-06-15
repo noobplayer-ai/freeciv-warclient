@@ -1,0 +1,12 @@
+/read /etc/civ/auth.serv
+
+/rulesetdir nowonder+1.2
+/wfile welcome
+/loada action.list
+
+/set minplayers 4
+/set maxplayers 30
+/set savename civgame
+
+
+/meta Warserver@?? 
